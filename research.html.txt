@@ -1,0 +1,3 @@
+<h2>Research Areas</h2>
+<p>Topic 1: Description</p>
+<p>Topic 2: Description</p>

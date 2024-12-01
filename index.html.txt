@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home | Your Name</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="publications.html">Publications</a></li>
+        <li><a href="research.html">Research Areas</a></li>
+        <li><a href="awards.html">Awards & Services</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>Welcome to [Your Name]'s Academic Website</h1>
+    <p>This is your home page. Briefly introduce yourself and your academic work here.</p>
+  </main>
+  <footer>
+    <p>&copy; 2024 [Your Name]. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>

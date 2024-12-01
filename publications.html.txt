@@ -1,0 +1,4 @@
+<h2>Publications</h2>
+<ul>
+  <li><b>Paper Title</b>, Journal Name, Year. <a href="https://doi.org/xx">DOI</a></li>
+</ul>
